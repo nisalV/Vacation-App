@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "466170210207",
+    "project_id": "vacation-app-c6f01",
+    "storage_bucket": "vacation-app-c6f01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:466170210207:android:30ea3df9044bc217f07faa",
+        "android_client_info": {
+          "package_name": "com.work.vacationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "466170210207-sh8kq6cndu1vc5e0p3ml0skfut562n96.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB14s1X7hOeqFUxjCfHPlT3zw7X1cPeSpU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "466170210207-sh8kq6cndu1vc5e0p3ml0skfut562n96.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
